@@ -1,0 +1,5 @@
+# -*- coding:utf-8 -*-
+# Code by Fan.Bai
+
+class Solution:
+    def generateParenthesis(self, n: int) -> List[str]:
